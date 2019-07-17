@@ -7,6 +7,7 @@ require (
 	github.com/ttacon/chalk v0.0.0-20160626202418-22c06c80ed31 // indirect
 	go.dedis.ch/fixbuf v1.0.3
 	go.dedis.ch/protobuf v1.0.5
-	golang.org/x/crypto v0.0.0-20190123085648-057139ce5d2b
-	golang.org/x/sys v0.0.0-20190124100055-b90733256f2e
+	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+	golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a
+	golang.org/x/tools v0.0.0-20190716221150-e98af2309876 // indirect
 )

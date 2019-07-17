@@ -1,7 +1,7 @@
 package bn256
 
 import (
-	"go.dedis.ch/kyber/v3"
+	"github.com/annchain/kyber/v3"
 	"io"
 )
 

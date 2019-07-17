@@ -3,13 +3,13 @@ package bn256
 import (
 	"bytes"
 	"fmt"
-	"go.dedis.ch/kyber/v3"
+	"github.com/annchain/kyber/v3"
 	"go.dedis.ch/protobuf"
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"go.dedis.ch/kyber/v3/group/mod"
-	"go.dedis.ch/kyber/v3/util/random"
+	"github.com/annchain/kyber/v3/group/mod"
+	"github.com/annchain/kyber/v3/util/random"
 	"golang.org/x/crypto/bn256"
 )
 
